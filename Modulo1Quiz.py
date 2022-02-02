@@ -14,3 +14,7 @@ print ( (3*2)//2)
 
 #Fill in the Blank to output the quotient of dividing 100 by 42
 print (100 // 42)
+
+
+# Produce the Code that output 10 to the Power of 5
+print (10 ** 5)
