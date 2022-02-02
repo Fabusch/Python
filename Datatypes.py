@@ -19,3 +19,7 @@ print ( 2**3**2) # Sind drei Zahlen vorhanden muss man von RECHTS nach LINKS ers
 
 
 # The Power = HOCH bsp print ( 5 ** 3)
+
+
+print ( 9 ** (1/2) ) # QuadratWurzel von 9  = 3 
+print ( 8 ** ( 1/3 ) ) # Die Dritte Wurzel! also was muss dreimal multipliziert werden um 8 zu erhalten?  2.0
