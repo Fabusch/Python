@@ -24,4 +24,4 @@ elif not (1+1 ==3):
     print("2")
 else:
     print("3")
-    #Conclcusion is 2  because 1+1(2) is not equal to 3.
+    #Conclcusion is 2  because 1+1(2) is not equal to 3. 
