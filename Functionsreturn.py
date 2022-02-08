@@ -26,3 +26,24 @@ def add_numbers(x, y):
     print("This wont be printed")   # <-- not printed bec after the return statement. 
 
 print(add_numbers(4,5))
+
+   
+
+def sum(x):
+    res = 0
+    for i in range(x):
+        res += i
+    return res
+
+
+
+def func(x):
+    res = 0
+    for i in range(x):
+        res += i
+    return res
+
+print(func(4)) # 6 because res + i  means 0+0 = 0 , 0+1 = 1 , 0 + 2 = 2 , 0+3 = 3           1 + 2 + 3 = 6  it stops by iteration 3 because 4 is the stoppoint. 
+
+        
+    
